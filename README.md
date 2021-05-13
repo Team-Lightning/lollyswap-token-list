@@ -1,0 +1,1 @@
+# LollySwap token list
