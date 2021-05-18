@@ -15,9 +15,25 @@
     "tokens": [
         {
             "chainId": 1313161555,
-            "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
-            "name": "Aave",
-            "symbol": "AAVE",
+            "address": "0xf8e81D47203A594245E36C48e151709F0C19fBe8",
+            "name": "Wrapped ETH",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110"
+        },
+        {
+            "chainId": 1313161555,
+            "address": "0xd9145CCE52D386f254917e481eB44e9943F39138",
+            "name": "Token A",
+            "symbol": "TKA",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110"
+        },
+        {
+            "chainId": 1313161555,
+            "address": "0xd8b934580fcE35a11B58C6D73aDeE468a2833fa8",
+            "name": "Token B",
+            "symbol": "TKB",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110"
         }
