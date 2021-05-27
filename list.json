@@ -2,7 +2,7 @@
     "name": "LollySwap List",
     "timestamp": "2021-01-21T23:57:10.982Z",
     "version": {
-        "major": 3,
+        "major": 4,
         "minor": 0,
         "patch": 0
     },
@@ -15,7 +15,7 @@
     "tokens": [
         {
             "chainId": 1313161555,
-            "address": "0xd9145CCE52D386f254917e481eB44e9943F39138",
+            "address": "0x9e44c6d576d4cB740936819171367CBaa4232BFd",
             "name": "Wrapped ETH",
             "symbol": "WETH",
             "decimals": 18,
@@ -23,7 +23,7 @@
         },
         {
             "chainId": 1313161555,
-            "address": "0xd8b934580fcE35a11B58C6D73aDeE468a2833fa8",
+            "address": "0x677753b7347BEfbeE4619Cbe113A641952cDe2a2",
             "name": "Token A",
             "symbol": "TKA1",
             "decimals": 18,
@@ -31,7 +31,7 @@
         },
         {
             "chainId": 1313161555,
-            "address": "0xf8e81D47203A594245E36C48e151709F0C19fBe8",
+            "address": "0xa69231a42E09C71a6E8A78eDF27e91f9f1df81cB",
             "name": "Token B",
             "symbol": "TKB1",
             "decimals": 18,
